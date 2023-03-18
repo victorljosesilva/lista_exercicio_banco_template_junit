@@ -2,9 +2,9 @@ package org.exercicio.banco.template.model;
 
 /**
 *
-* Nome:
-* Curso:
-* Matrícula:
+* Nome: Victor Leonardo José da Silva
+* Curso: IPI
+* Matrícula: 20222INFIG0345
 * 
 */
 public class ContaBancaria {
